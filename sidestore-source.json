@@ -1,0 +1,38 @@
+{
+  "name": "LM Offline Client",
+  "subtitle": "SideStore releases for LM Offline Client",
+  "description": "Install and update LM Offline Client through SideStore.",
+  "iconURL": "https://raw.githubusercontent.com/SHG-GPT/lookmovie2-ios-releases/main/icon.png",
+  "website": "https://github.com/SHG-GPT/lookmovie2-ios-releases",
+  "featuredApps": [
+    "com.shggpt.lmoffline.ios"
+  ],
+  "apps": [
+    {
+      "name": "LM Offline Client",
+      "bundleIdentifier": "com.shggpt.lmoffline.ios",
+      "developerName": "SHG-GPT",
+      "subtitle": "Native iPhone client with offline playback support.",
+      "localizedDescription": "LM Offline Client for iPhone, distributed as an unsigned IPA for installation and automatic updates through SideStore.",
+      "iconURL": "https://raw.githubusercontent.com/SHG-GPT/lookmovie2-ios-releases/main/icon.png",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "1.5.1",
+          "buildVersion": "1",
+          "date": "2026-08-16",
+          "localizedDescription": "LM Offline Client 1.5.1 release.",
+          "downloadURL": "https://github.com/SHG-GPT/lookmovie2-ios-releases/releases/download/v1.5.1/LMOffline-1.5.1.ipa",
+          "size": 788966,
+          "sha256": "b3f5e75896be3fd24ff470a8a231e1d9ac037274860f30d49a7effb13e1fb68a",
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
