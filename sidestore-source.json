@@ -18,6 +18,16 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.5.6",
+          "buildVersion": "1",
+          "date": "2026-08-24",
+          "localizedDescription": "LM Offline Client 1.5.6 release.",
+          "downloadURL": "https://github.com/SHG-GPT/lookmovie2-ios-releases/releases/download/v1.5.6/LMOffline-1.5.6.ipa",
+          "size": 811961,
+          "sha256": "4b07bbcbc5f947695b4ad1a20990c5cc2438e3b453c677d0f70e2e00a7186c03",
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.5.5",
           "buildVersion": "1",
           "date": "2026-08-24",
